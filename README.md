@@ -4,7 +4,7 @@ fitexplore
 Smart Analytical Testing with the simplicity of Fitnesse .
  
  
-This Open source library is based on the concept of using coaxed machine learning to emulate Exploratory Testing.
+This Open source library is based on the xoncept of using coaxed machine learning algorithms to emulate Exploratory Testing. 
 ---
 The library will provide the core foundation for building such a system and walk you though the concepts.
  
