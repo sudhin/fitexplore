@@ -4,7 +4,7 @@ fitexplore
 Smart Analytical Testing with the simplicity of Fitnesse .
  
  
-The library will provide the core foundation for building such a system and walk you though the concepts.
+The library will walk you though the concepts and provide sample code.
  
 The System Leverages Open Source Tools and Libraries , though each of the components are replaceable it is recommended that you follow the stack as suggested before you replace the modules.
 
